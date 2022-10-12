@@ -1,2 +1,2 @@
 # git_prac
-I am adding text to modift this for setup
+I am adding text to modify this for setup
